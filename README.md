@@ -1,11 +1,11 @@
 # Data_scientist
-##Education Backgroud
+#Education Background
 MPMA
 Bach. Of Business Management
 CPA
-##Experiences
+#Experiences
 State Department for Trade
-##Technical Skills
+#Technical Skills
 Stata
 C++
 Excel
